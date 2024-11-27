@@ -11,4 +11,9 @@ Sanjeeva Reddy: SE21UARI201
 
 In addition, I would like to apologize for the late submission. Lately, the placement procedures have become very intensive. Thus, we were not able to give much time. I apologise and kindly request you to excuse us.
 
+A little info about the data:
+Cooking, Eating both have positive samples: Both are samples are exhibiting the action
+The rest have a positive and a negative sample: Only one is doing the action.
+
+
 Thank you!
